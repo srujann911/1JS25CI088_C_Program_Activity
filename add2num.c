@@ -1,14 +1,14 @@
-#include &lt;stdio.h&gt;
+#include <stdio.h>
 int main()
 {
-printf(&quot;Name:Srujan N Vishwakarma \n&quot;);
-printf(&quot;USN: 1JS25CI088 \n&quot;);
-printf(&quot;Program: Simple Addition of Two Numbers\n&quot;);
-printf(&quot;----------------------------------------\n&quot;);
+printf("Name: Srujan N Vishwakarma \n");
+printf("USN: 1JS25CI088 \n");
+printf("Program: Simple Addition of Two Numbers\n");
+printf("----------------------------------------\n");
 int a, b, sum;
-printf(&quot;Enter two numbers: &quot;);
-scanf(&quot;%d %d&quot;, &amp;a, &amp;b);
+printf("Enter two numbers:");
+scanf("%d %d", &a, &b);
 sum = a + b;
-printf(&quot;Sum = %d\n&quot;, sum);
+printf("Sum = %d\n",sum);
 return 0;
 }
