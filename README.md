@@ -3,7 +3,7 @@ C program activity for Programming in C course
 # C Programming Activity
 Name: YOUR NAME
 USN: 1JS25CI088
-Semester/Section: 2nd , C2
+Semester/Section: 2nd , AIML-C2
 Program Title: Simple Addition of Two Numbers
 ## Aim
 To write and execute a simple C program and upload it to GitHub.
